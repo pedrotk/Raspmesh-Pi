@@ -1,4 +1,4 @@
-Node opcao 1:
+Node opção 1:
 1. Raspberry Pi B+
 2. Adapdator WiFi USB com entrada para antena
 3. Antena(precisamos ver quantos dBi são necessários)
@@ -7,7 +7,7 @@ Node opcao 1:
 6. Bateria 5V(ver quantos Ah precisamos)
 7. Caixa hermética vedada(podemos fazer)
 
-Node opcao 2:
+Node opção 2:
 1. AP empresarial
 2. Antena?
 3. Placa fotovoltaica(acho que 20+W)
